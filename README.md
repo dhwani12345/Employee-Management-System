@@ -46,16 +46,17 @@ tblPersonalMaster.And last inserted record is displayed in EmployeeList.
 
 ### Built With
 * Eclipse 2019-03 (4.11.0)
+* JDK 1.8
 * Tomcat version 9.0
 * PgAdmin4 v4.11
 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
+The following is the list of files with functionality of each file
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
+
+
 
 ### Prerequisites
 
