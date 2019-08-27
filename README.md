@@ -40,12 +40,14 @@ This project showcases basic handson with the use of jsp, servlets, JDBC, sql an
   - salary
   - is_fresheremployee
   - joiningdate
+  
+User click on submit button,check validation and insert data into tblEmployeeMaster and
+tblPersonalMaster.And last inserted record is displayed in EmployeeList.
 
 ### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+* Eclipse 2019-03 (4.11.0)
+* Tomcat version 9.0
+* PgAdmin4 v4.11
 
 
 
