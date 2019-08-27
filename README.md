@@ -22,23 +22,24 @@ Create a basic employee management system to have a handson experience with jsp,
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 This project showcases basic handson with the use of jsp, servlets, JDBC, sql and java OOP concepts. The end goal being to create an employee management system where the user takes data from the following tables with attributes as listed :
- * tblpersonalmaster
-  *id (primary key)
-  *firstname
-  *lastname
-  *birthdate
-  *gender
- * tblqualificationmaster
-  *id (primary key)
-  *qualification
- * tblemployeemaster
-  *id (primary key)
-  *personal_id (foreign key on id from tblpersonalmaster)
-  *qualification_id (foreign key on id from tblqualificationmaster)
-  *salary
-  *is_fresheremployee
-  *joiningdate
+1. tblpersonalmaster
+ - id (primary key)
+ - firstname
+ - lastname
+ - birthdate
+ - gender
 
+2. tblqualificationmaster
+ - id (primary key)
+ - qualification
+
+3. tblemployeemaster
+  - id (primary key)
+  - personal_id (foreign key on id from tblpersonalmaster)
+  - qualification_id (foreign key on id from tblqualificationmaster)
+  - salary
+  - is_fresheremployee
+  - joiningdate
 
 ### Built With
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
