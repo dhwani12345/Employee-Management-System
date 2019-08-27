@@ -58,6 +58,28 @@ The following is the list of files with functionality of each file
  - This file is located in the WEB-INF directory of your Web application. The first entry, under the root servlet element in web.xml, defines a name for the servlet and specifies the compiled class that executes the servlet. 
  
 2. employee.jsp
+ - This file contains the front end layout of the screen with all the text fiels, radio buttons and submit option 
+ 
+3. edit.jsp
+ - Similar to employee.jsp but displays front end to edit last inserted record on clicking edit button 
+ 
+ 4. MyProvider.java
+  - This is an interface file providing information (i.e. url,username,password) for database connectivity with postgresql
+  
+ 5. MyConnectionProvider.java
+  - Java class implementing MyProvider interface for JDBC connectivity
+  
+ 6. Employee.java
+  - This file contains all the getter and setter methods for retrieving employee information
+  
+ 7. EmployeeDAO.java 
+  - This is a java interface file defining functions insertemployee, getemployee and updateemployee
+  
+ 8. EmployeeDAOImplementation.java
+  - Java file implementing functions defined in EmployeeDAO interface.
+  
+  9. RegisterEmployeeInfo.java
+   - Servlet file containing doPost and doGet methods
 
 
 <!-- ROADMAP -->
