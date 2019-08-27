@@ -78,27 +78,13 @@ The following is the list of files with functionality of each file
  8. EmployeeDAOImplementation.java
   - Java file implementing functions defined in EmployeeDAO interface.
   
-  9. RegisterEmployeeInfo.java
-   - Servlet file containing doPost and doGet methods
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
+ 9. RegisterEmployeeInfo.java
+  - Servlet file containing doPost and doGet methods
 
 <!-- CONTACT -->
 ## Contact
 
-Dhwani Mehta - dhwanidm1996@gmail.com
+Dhwani Mehta - dhwanidm1996@gmail.com - [LinkedIn](https://www.linkedin.com/in/dhwani-mehta-b1a6a9129/)
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Link](https://github.com/dhwani12345/Employee-Management-System)
 
