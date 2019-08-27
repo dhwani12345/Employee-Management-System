@@ -11,9 +11,6 @@ Create a basic employee management system to have a handson experience with jsp,
 * Getting Started
   * Prerequisites
   * Installation
-* Usage
-* Roadmap
-* Contributing
 * Contact
 * Acknowledgements
 
